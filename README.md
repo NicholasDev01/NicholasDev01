@@ -28,7 +28,7 @@
 
 ###
 
-<h4 align="left">📚 - Backend<br>💻 - Técnico em Redes de Computadores<br>🏫 - IFCE - Campus Tauá</h4>
+<h4 align="left">📚 - Cybersegurança<br>💻 - Técnico em Redes de Computadores<br>🏫 - IFCE - Campus Tauá</h4>
 
 ###
 
